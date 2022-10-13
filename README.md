@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)](https://devadhinu.io)
+[![MasterHead]([https://www.lambdatest.com/resources/images/Software-Test-Management.gif](https://medium.com/deutsche-telekom-gurgaon/full-stack-qa-reality-or-myth-602351c56ff))](https://devadhinu.io)
 <h1 align="center">Hey 👋, I'm Devasena</h1>
 <h3 align="center">A vehement Automation Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DesertedEarlyAnnelida-size_restricted.gif">
