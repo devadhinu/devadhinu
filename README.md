@@ -1,4 +1,4 @@
-[![MasterHead](https://thedigitalprojectmanager.b-cdn.net/wp-content/uploads/2018/11/requirements-gathering-guide.png)](https://devadhinu.io)
+[![MasterHead](https://www.soldevelo.com/blog/wp-content/uploads/Software-tester-%E2%80%94-kopia.jpeg)](https://devadhinu.io)
 <h1 align="center">Hey 👋, I'm Devasena</h1>
 <h3 align="center">A vehement Automation Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/DesertedEarlyAnnelida-size_restricted.gif">
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Algorithms and Kubernetes**
 
-- 📫 How to reach me **devasena555@gmail.com**
+- 📫 You can reach me on **devasena555@gmail.com**
 
 - ⚡ Fun fact **I enjoy pranking dear ones.**
 
